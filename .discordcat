@@ -1,0 +1,4 @@
+default_channel = "general"
+
+[channels]
+general = "WEBHOOK_URL"
